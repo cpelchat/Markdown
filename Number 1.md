@@ -16,12 +16,12 @@ READ [ME] <--- link
 * GREAT
 
 **THIS IS BOLD**
-_THIS IS LEANING_
-~~STRIKE ONE~~
-
----
 ***
+_THIS IS LEANING_
+---
+~~STRIKE ONE~~
 ___
+
 
 [ME]: https://github.com/cpelchat/Markdown/blob/master/README.md
 
